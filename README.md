@@ -1,3 +1,4 @@
 # EmanueleMirante.github.io
 
-Simple personal data project hosted by github
+Simple personal portfolio of data science projects hosted by github
+
